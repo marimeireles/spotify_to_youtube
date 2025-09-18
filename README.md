@@ -1,9 +1,10 @@
 ## Setup
 
 A) Python environment
-
+```
 pip install --upgrade pip
 pip install spotipy google-api-python-client google-auth-oauthlib requests
+```
 
 B) Spotify credentials
 
