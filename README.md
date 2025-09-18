@@ -3,7 +3,6 @@
 ## A) Python environment
 
 ~~~bash
-pip install --upgrade pip
 pip install spotipy google-api-python-client google-auth-oauthlib requests
 ~~~
 
