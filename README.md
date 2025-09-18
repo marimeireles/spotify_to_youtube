@@ -13,10 +13,15 @@ Create a Spotify app at https://developer.spotify.com/dashboard
 C) YouTube Data API credentials (OAuth)
 
 1.Go to https://console.cloud.google.com/
+
 2.“APIs & Services” → “Library” → enable YouTube Data API v3.
+
 3.“Credentials” → “Create Credentials” → OAuth client ID → Application type: Desktop.
+
 4.Download the client configuration as client_secret.json and put it next to the script.
+
 5.Make sure to add yourself in the allowed list "https://console.cloud.google.com/auth/audience" "Add users button"
+
 6. You’ll be prompted by a browser the first time to authorize your Google account. The script caches a token in yt_token.json for subsequent runs.
 
 ## Usage
