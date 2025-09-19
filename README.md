@@ -1,3 +1,10 @@
+# What is this?
+
+A software that downloads your songs from a spotify playlist!
+The way it does that is by fetching the songs on spotify, searching them on Youtube and downloading them with youtube-dl.
+
+Unfortunately I have to ask you for all these credentials (I've tried not to) because these services won't give us anything for free, we have to pay with our own selves.
+
 # Setup
 
 ## A) Python environment
